@@ -1,0 +1,11 @@
+ceph:
+  osds: ["QuelThalas"]
+  clients: ["QuelThalas"]
+fio:
+  duration: 300
+  vol_size: 65536
+  iodepth:
+    list: [1,2,4,8,16,32,64]
+    pick: 'BestBW'
+dstat:
+  all_disk: true

@@ -1,0 +1,20 @@
+2021-02-23 19:06:14,253 — CBC — DEBUG — Read config file.
+2021-02-23 19:06:14,253 — CBC — DEBUG — Parse config file.
+2021-02-23 19:06:14,253 — CBC — DEBUG — Build Ceph source code.
+2021-02-23 19:06:15,255 — CBC — DEBUG — Setup and deploy Ceph cluster.
+2021-02-23 19:06:16,256 — CBC — DEBUG — Build Fio source code.
+2021-02-23 19:06:17,257 — CBC — DEBUG — Setup Fio.
+2021-02-23 19:06:18,259 — CBC — DEBUG — Build Dstat source code.
+2021-02-23 19:06:19,260 — CBC — DEBUG — Setup Dstat.
+2021-02-23 19:06:20,261 — CBC — DEBUG — Build Parser source code.
+2021-02-23 19:06:20,262 — CBC — DEBUG — Setup Parser.
+2021-02-23 19:06:20,262 — CBC — DEBUG — Executor start to run.
+2021-02-23 19:06:20,263 — CBC — DEBUG — Run Benchmark in another thread.
+2021-02-23 19:06:20,263 — CBC — DEBUG — Run Dstat in another thread.
+2021-02-23 19:06:20,263 — CBC — DEBUG — Run Fio Start.
+2021-02-23 19:06:20,264 — CBC — DEBUG — Run Dstat Start.
+2021-02-23 19:06:30,274 — CBC — DEBUG — Run Fio End.
+2021-02-23 19:06:30,274 — CBC — DEBUG — Run Dstat End.
+2021-02-23 19:06:30,275 — CBC — DEBUG — Run Benchmarks Done.
+2021-02-23 19:06:30,275 — CBC — DEBUG — Run Parser.
+2021-02-23 19:06:30,275 — CBC — DEBUG — Check bottleneck is in Ceph.
